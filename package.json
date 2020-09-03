@@ -1,0 +1,26 @@
+{
+  "name": "sushiswap",
+  "version": "1.0.0",
+  "description": "Grant 1  Build SushiSwap Trading and Farming UI",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/main.css -o build/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dboudro/sushiswap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dboudro/sushiswap/issues"
+  },
+  "homepage": "https://github.com/dboudro/sushiswap#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "cryptocurrency-icons": "^0.16.1",
+    "postcss-cli": "^7.1.2",
+    "tailwindcss": "^1.7.6"
+  }
+}
